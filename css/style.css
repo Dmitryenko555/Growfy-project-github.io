@@ -247,14 +247,14 @@ ul {
 }
 
 .card__like {
-    background-image: url(/img/like__card.svg);
+    background-image: url(../img/like__card.svg);
     width: 19.726875rem;
     height: 21.25rem;
     background-repeat: no-repeat;
 }
 
 .card__paid {
-    background-image: url(/img/paid__card.svg);
+    background-image: url(../img/paid__card.svg);
     width: 19.726875rem;
     height: 20.974375rem;
     margin-top: -3.0625rem;
@@ -262,14 +262,14 @@ ul {
 }
 
 .card__email {
-    background-image: url(/img/email__card.svg);
+    background-image: url(../img/email__card.svg);
     width: 19.726875rem;
     height: 21.25rem;
     background-repeat: no-repeat;
 }
 
 .card__seo {
-    background-image: url(/img/seo__card.svg);
+    background-image: url(../img/seo__card.svg);
     width: 19.726875rem;
     height: 20.974375rem;
     margin-top: -3.25rem;
@@ -422,7 +422,7 @@ ul {
 }
 
 .stats__card__bottom {
-    background-image: url(/img/block.svg);
+    background-image: url(../img/block.svg);
     width: 22.399375rem;
     height: 17.375rem;
     margin-top: 0.875rem;
@@ -430,7 +430,7 @@ ul {
 }
 
 .stats__card {
-    background-image: url(/img/block.svg);
+    background-image: url(../img/block.svg);
     display: flex;
     flex-wrap: wrap;
     gap: 0.9375rem;
@@ -498,19 +498,19 @@ ul {
 }
 
 .testimonials__card__john {
-    background-image: url(/img/john__card.svg);
+    background-image: url(../img/john__card.svg);
     width: 24.66625rem;
     height: 35.501875rem;
 }
 
 .testimonials__card__alice {
-    background-image: url(/img/alice__card.svg);
+    background-image: url(../img/alice__card.svg);
     width: 24.66625rem;
     height: 35.501875rem;
 }
 
 .testimonials__card__sophi {
-    background-image: url(/img/sophi__card.svg);
+    background-image: url(../img/sophi__card.svg);
     width: 24.66625rem;
     height: 35.501875rem;
 }
@@ -673,19 +673,19 @@ ul {
 }
 
 .blog__card__social {
-    background-image: url(/img/social_media.svg);
+    background-image: url(../img/social_media.svg);
     width: 24.66625rem;
     height: 33.385625rem;
 }
 
 .blog__card__seo {
-    background-image: url(/img/seo_card.svg);
+    background-image: url(../img/seo_card.svg);
     width: 24.66625rem;
     height: 33.385625rem;
 }
 
 .blog__card__strategy {
-    background-image: url(/img/strategy_card.svg);
+    background-image: url(../img/strategy_card.svg);
     width: 24.66625rem;
     height: 33.385625rem;
 }
@@ -736,7 +736,7 @@ ul {
 }
 
 .ready__card {
-    background-image: url(/img/long_block.svg);
+    background-image: url(../img/long_block.svg);
     background-repeat: no-repeat;
     width: 80rem;
     height: 16rem;
@@ -1343,7 +1343,7 @@ ul {
   }
 
   .ready__card {
-    background-image: url(/img/long_block.svg);
+    background-image: url(../img/long_block.svg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100% !important;
